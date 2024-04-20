@@ -1,0 +1,14 @@
+co\com\ps\C22JA\service\UsuarioService.class
+co\com\ps\C22JA\service\IProductoService.class
+co\com\ps\C22JA\service\IUsuarioService.class
+co\com\ps\C22JA\entity\Usuario.class
+co\com\ps\C22JA\entity\Producto.class
+co\com\ps\C22JA\error\ProductoErrorMessage.class
+co\com\ps\C22JA\repository\ProductoRepository.class
+co\com\ps\C22JA\repository\UsuarioRepository.class
+co\com\ps\C22JA\controller\GlobalExceptionHandler.class
+co\com\ps\C22JA\controller\ProductoController.class
+co\com\ps\C22JA\error\UsuarioErrorMessage.class
+co\com\ps\C22JA\C22JaApplication.class
+co\com\ps\C22JA\controller\UsuarioController.class
+co\com\ps\C22JA\service\ProductoService.class
